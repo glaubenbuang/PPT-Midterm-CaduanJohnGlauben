@@ -1,0 +1,6 @@
+1. Git is used for: Git is a version control tool that runs on your computer. It tracks changes to your files over time so you can review history, undo mistakes, and work on a project without losing earlier versions.
+2. GitHub is used for: GitHub is an online platform that hosts Git repositories. It lets you back up your code, share it, and collaborate with other people through features like issues, code review, and access control.
+3. A commit means: A commit is a saved snapshot of your project at a specific point in time, with a message describing what changed. Each commit becomes a checkpoint you can return to.
+4. A branch is used for: A branch is a separate line of development. It lets you build a feature or fix a bug without touching the main code, so unfinished work doesn’t break anything until you’re ready to merge it.
+5. A Pull Request is used for: A Pull Request is a request to merge the changes from one branch into another (usually into main). It gives teammates a place to review the code, comment, and approve it before it becomes part of the project.
+
